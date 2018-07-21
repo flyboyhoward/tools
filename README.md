@@ -1,5 +1,5 @@
 # tools
 
-This repository contains differnt functions for case by case usage. 
+This repository contains differnt functions for various usage. It will keep updating.
 
 Discriptions are in these codes.
