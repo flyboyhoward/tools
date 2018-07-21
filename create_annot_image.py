@@ -1,3 +1,16 @@
+# Description:
+# can load images and annotaions from vedio detection iamges files 
+# change the form of anntation into we need
+# read different sequences of iamges and reload into one folder randomly
+# finally annotation files corresponding to iamges
+#
+# In this case:
+# annotation form is 102,0,38,666,71,88,1,1,1,0 e.g
+# each origin annotation file name is the same as sequence name
+# random file named from random number 1-10000
+# function parse_args() is useless, because I set them in the main function
+# ########################################################################
+
 import numpy as np
 import os
 import re 
