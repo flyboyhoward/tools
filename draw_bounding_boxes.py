@@ -1,3 +1,13 @@
+# Description:
+# drow bounding boxes(bbox) in iamges
+#
+# Usage:
+# load images and annotations from directory set in main() function
+# draw rectangle bbox from .txt annotation file 
+# annotation example 102,0,38,666,71,88,1,1,1,0
+# images with bbox will save into setted directory
+#############################################################
+
 import numpy as np
 import os
 import re 
